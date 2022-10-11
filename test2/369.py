@@ -36,7 +36,11 @@
 # print(s(phone_num))
 
 
+print("test1")
+print("test1")
 
+
+print("test1")
 # 약수의합
 def solution(n):
     sum=0
